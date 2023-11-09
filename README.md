@@ -52,5 +52,4 @@ Canadian Dollar: $80000.0
 
 - Check the CoinGecko API documentation for any changes or new features.
 
-Feel free to modify the script or README to suit your preferences or project requirements.
 ```
